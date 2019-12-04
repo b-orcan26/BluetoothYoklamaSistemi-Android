@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backs_org"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="400dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/trans_white_rectangle"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView2"
+
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="30dp"
+                android:layout_marginLeft="5dp"
+                android:text="Ders Seç"
+                android:textColor="@android:color/white"
+                android:textSize="20sp" />
+
+
+            <ListView
+                android:id="@+id/listview1"
+                android:layout_width="300dp"
+                android:layout_height="100dp"
+                android:choiceMode="singleChoice"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="10dp"
+                android:divider="#00000000"
+                android:dividerHeight="10dp"
+                />
+
+            <Button
+                android:id="@+id/btn_secim_yap_ders"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:background="#7210697E"
+                android:text="Seçim Yap"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

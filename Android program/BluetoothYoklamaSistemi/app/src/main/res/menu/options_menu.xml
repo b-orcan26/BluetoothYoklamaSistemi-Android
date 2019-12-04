@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:title="http://schemas.android.com/tools"
+    >
+    <item
+        android:id="@+id/bluetoothAc"
+        android:icon="@drawable/bluetooth_kapali"
+        android:title="Bluetooth"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/manuelYoklama"
+        android:icon="@drawable/manuel_kapali"
+        android:title="Manuel Yoklama"
+        android:checked="false"
+        app:showAsAction="always" />
+
+
+
+</menu>
