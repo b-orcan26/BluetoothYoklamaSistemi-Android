@@ -1,6 +1,6 @@
 # Ekran Görüntüleri
 
-![s1](https://user-images.githubusercontent.com/58535239/70221485-7f178f00-1759-11ea-8f65-b22416d79850.png)         ![s2](https://user-images.githubusercontent.com/58535239/70221515-8f2f6e80-1759-11ea-9ca2-b38fd2382b40.png)
+![s1](https://user-images.githubusercontent.com/58535239/70221485-7f178f00-1759-11ea-8f65-b22416d79850.png)         ![s2](https://user-images.githubusercontent.com/58535239/70221515-8f2f6e80-1759-11ea-9ca2-b38fd2382b40.png)       ![s5](https://user-images.githubusercontent.com/58535239/70223781-3bbf1f80-175d-11ea-9fd0-a4fae8625048.png)
 
 
 
