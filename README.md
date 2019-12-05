@@ -1,9 +1,9 @@
 # BluetoothYoklamaSistemiRepo
 
-![Screenshot_2019-12-05-11-54-08](https://user-images.githubusercontent.com/58535239/70221247-0e707280-1759-11ea-9007-11bb5c154102.png)
+![s1](https://user-images.githubusercontent.com/58535239/70221485-7f178f00-1759-11ea-8f65-b22416d79850.png)
 
-![Screenshot_2019-12-05-11-54-24](https://user-images.githubusercontent.com/58535239/70221269-19c39e00-1759-11ea-9cd8-61657f01d7fe.png)
+![s2](https://user-images.githubusercontent.com/58535239/70221515-8f2f6e80-1759-11ea-9ca2-b38fd2382b40.png)
 
-![Screenshot_2019-12-05-11-55-16](https://user-images.githubusercontent.com/58535239/70221292-221bd900-1759-11ea-8b1c-fa032aa42860.png)
+![s3](https://user-images.githubusercontent.com/58535239/70221535-9a829a00-1759-11ea-822e-660531b47263.png)
 
-![Screenshot_2019-12-05-12-00-16](https://user-images.githubusercontent.com/58535239/70221317-2c3dd780-1759-11ea-9beb-1a157cf5efab.png)
+![s4](https://user-images.githubusercontent.com/58535239/70221553-a1111180-1759-11ea-8ee0-bc7ee452cd58.png)
