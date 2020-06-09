@@ -350,8 +350,7 @@ public class YoklamaActivity extends AppCompatActivity {
                         String mesaj="Baglandi";
                         connectedThread.write(mesaj.getBytes());
                     }
-                    //Önceden burada bulunan kod mmServerSocketi kapatıp birden fazla cihazın bağlantı kurmasını engelliyordu biz bu
-                    //kodu kaldırdık ki birden çok öğrenci bağlanıp yoklama verebilsin.
+                    
                 }
             }
         }
